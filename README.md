@@ -1,2 +1,3 @@
 # hello-world
-this repository is for practice  the gitHub flow
+Bonjour, je suis wilson kamgne, et actuellement je suis le tutoriel de la documentation github qui m'apprent a utiliser l'outil 
+
